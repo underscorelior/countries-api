@@ -1,0 +1,1194 @@
+[
+	{
+		"flags": "https://flagcdn.com/w320/ki.png",
+		"name": "Kiribati",
+		"capital": "Tarawa",
+		"short": "ki"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bj.png",
+		"name": "Benin",
+		"capital": "Porto-Novo",
+		"short": "bj"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lb.png",
+		"name": "Lebanon",
+		"capital": "Beirut",
+		"short": "lb"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/jm.png",
+		"name": "Jamaica",
+		"capital": "Kingston",
+		"short": "jm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/me.png",
+		"name": "Montenegro",
+		"capital": "Podgorica",
+		"short": "me"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/km.png",
+		"name": "Comoros",
+		"capital": "Moroni",
+		"short": "km"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/zw.png",
+		"name": "Zimbabwe",
+		"capital": "Harare",
+		"short": "zw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/td.png",
+		"name": "Chad",
+		"capital": "N'Djamena",
+		"short": "td"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/et.png",
+		"name": "Ethiopia",
+		"capital": "Addis Ababa",
+		"short": "et"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ad.png",
+		"name": "Andorra",
+		"capital": "Andorra la Vella",
+		"short": "ad"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ag.png",
+		"name": "Antigua and Barbuda",
+		"capital": "Saint John's",
+		"short": "ag"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/us.png",
+		"name": "United States",
+		"capital": "Washington, D.C.",
+		"short": "us"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gw.png",
+		"name": "Guinea-Bissau",
+		"capital": "Bissau",
+		"short": "gw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ca.png",
+		"name": "Canada",
+		"capital": "Ottawa",
+		"short": "ca"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ke.png",
+		"name": "Kenya",
+		"capital": "Nairobi",
+		"short": "ke"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cv.png",
+		"name": "Cape Verde",
+		"capital": "Praia",
+		"short": "cv"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ge.png",
+		"name": "Georgia",
+		"capital": "Tbilisi",
+		"short": "ge"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sb.png",
+		"name": "Solomon Islands",
+		"capital": "Honiara",
+		"short": "sb"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cn.png",
+		"name": "China",
+		"capital": "Beijing",
+		"short": "cn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/rw.png",
+		"name": "Rwanda",
+		"capital": "Kigali",
+		"short": "rw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/by.png",
+		"name": "Belarus",
+		"capital": "Minsk",
+		"short": "by"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pk.png",
+		"name": "Pakistan",
+		"capital": "Islamabad",
+		"short": "pk"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tl.png",
+		"name": "Timor-Leste",
+		"capital": "Dili",
+		"short": "tl"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sv.png",
+		"name": "El Salvador",
+		"capital": "San Salvador",
+		"short": "sv"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/uy.png",
+		"name": "Uruguay",
+		"capital": "Montevideo",
+		"short": "uy"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/at.png",
+		"name": "Austria",
+		"capital": "Vienna",
+		"short": "at"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/er.png",
+		"name": "Eritrea",
+		"capital": "Asmara",
+		"short": "er"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/za.png",
+		"name": "South Africa",
+		"capital": [
+			"Pretoria",
+			"Bloemfontein",
+			"Cape Town"
+		],
+		"short": "za"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/zm.png",
+		"name": "Zambia",
+		"capital": "Lusaka",
+		"short": "zm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ne.png",
+		"name": "Niger",
+		"capital": "Niamey",
+		"short": "ne"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/la.png",
+		"name": "Laos",
+		"capital": "Vientiane",
+		"short": "la"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cy.png",
+		"name": "Cyprus",
+		"capital": "Nicosia",
+		"short": "cy"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ec.png",
+		"name": "Ecuador",
+		"capital": "Quito",
+		"short": "ec"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lr.png",
+		"name": "Liberia",
+		"capital": "Monrovia",
+		"short": "lr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ug.png",
+		"name": "Uganda",
+		"capital": "Kampala",
+		"short": "ug"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gt.png",
+		"name": "Guatemala",
+		"capital": "Guatemala City",
+		"short": "gt"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mm.png",
+		"name": "Myanmar",
+		"capital": "Naypyidaw",
+		"short": "mm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lu.png",
+		"name": "Luxembourg",
+		"capital": "Luxembourg",
+		"short": "lu"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/do.png",
+		"name": "Dominican Republic",
+		"capital": "Santo Domingo",
+		"short": "do"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tj.png",
+		"name": "Tajikistan",
+		"capital": "Dushanbe",
+		"short": "tj"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ml.png",
+		"name": "Mali",
+		"capital": "Bamako",
+		"short": "ml"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ve.png",
+		"name": "Venezuela",
+		"capital": "Caracas",
+		"short": "ve"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/md.png",
+		"name": "Moldova",
+		"capital": "Chișinău",
+		"short": "md"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/se.png",
+		"name": "Sweden",
+		"capital": "Stockholm",
+		"short": "se"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mv.png",
+		"name": "Maldives",
+		"capital": "Malé",
+		"short": "mv"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gy.png",
+		"name": "Guyana",
+		"capital": "Georgetown",
+		"short": "gy"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ph.png",
+		"name": "Philippines",
+		"capital": "Manila",
+		"short": "ph"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kh.png",
+		"name": "Cambodia",
+		"capital": "Phnom Penh",
+		"short": "kh"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mn.png",
+		"name": "Mongolia",
+		"capital": "Ulaanbaatar",
+		"short": "mn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sy.png",
+		"name": "Syria",
+		"capital": "Damascus",
+		"short": "sy"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/il.png",
+		"name": "Israel",
+		"capital": "Jerusalem",
+		"short": "il"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mz.png",
+		"name": "Mozambique",
+		"capital": "Maputo",
+		"short": "mz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/au.png",
+		"name": "Australia",
+		"capital": "Canberra",
+		"short": "au"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/am.png",
+		"name": "Armenia",
+		"capital": "Yerevan",
+		"short": "am"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ws.png",
+		"name": "Samoa",
+		"capital": "Apia",
+		"short": "ws"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/fj.png",
+		"name": "Fiji",
+		"capital": "Suva",
+		"short": "fj"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/my.png",
+		"name": "Malaysia",
+		"capital": "Kuala Lumpur",
+		"short": "my"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/to.png",
+		"name": "Tonga",
+		"capital": "Nuku'alofa",
+		"short": "to"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/fr.png",
+		"name": "France",
+		"capital": "Paris",
+		"short": "fr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lc.png",
+		"name": "Saint Lucia",
+		"capital": "Castries",
+		"short": "lc"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sr.png",
+		"name": "Suriname",
+		"capital": "Paramaribo",
+		"short": "sr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bg.png",
+		"name": "Bulgaria",
+		"capital": "Sofia",
+		"short": "bg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/br.png",
+		"name": "Brazil",
+		"capital": "Brasília",
+		"short": "br"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/id.png",
+		"name": "Indonesia",
+		"capital": "Jakarta",
+		"short": "id"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tv.png",
+		"name": "Tuvalu",
+		"capital": "Funafuti",
+		"short": "tv"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pw.png",
+		"name": "Palau",
+		"capital": "Ngerulmud",
+		"short": "pw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/jp.png",
+		"name": "Japan",
+		"capital": "Tokyo",
+		"short": "jp"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/be.png",
+		"name": "Belgium",
+		"capital": "Brussels",
+		"short": "be"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/es.png",
+		"name": "Spain",
+		"capital": "Madrid",
+		"short": "es"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/is.png",
+		"name": "Iceland",
+		"capital": "Reykjavik",
+		"short": "is"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ie.png",
+		"name": "Ireland",
+		"capital": "Dublin",
+		"short": "ie"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kg.png",
+		"name": "Kyrgyzstan",
+		"capital": "Bishkek",
+		"short": "kg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sz.png",
+		"name": "Eswatini",
+		"capital": "Mbabane",
+		"short": "sz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gd.png",
+		"name": "Grenada",
+		"capital": "St. George's",
+		"short": "gd"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bi.png",
+		"name": "Burundi",
+		"capital": "Gitega",
+		"short": "bi"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tt.png",
+		"name": "Trinidad and Tobago",
+		"capital": "Port of Spain",
+		"short": "tt"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/jo.png",
+		"name": "Jordan",
+		"capital": "Amman",
+		"short": "jo"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lt.png",
+		"name": "Lithuania",
+		"capital": "Vilnius",
+		"short": "lt"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ma.png",
+		"name": "Morocco",
+		"capital": "Rabat",
+		"short": "ma"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/nl.png",
+		"name": "Netherlands",
+		"capital": "Amsterdam",
+		"short": "nl"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ps.png",
+		"name": "Palestine",
+		"capital": "Ramallah",
+		"short": "ps"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/co.png",
+		"name": "Colombia",
+		"capital": "Bogotá",
+		"short": "co"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bz.png",
+		"name": "Belize",
+		"capital": "Belmopan",
+		"short": "bz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mu.png",
+		"name": "Mauritius",
+		"capital": "Port Louis",
+		"short": "mu"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bt.png",
+		"name": "Bhutan",
+		"capital": "Thimphu",
+		"short": "bt"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/dj.png",
+		"name": "Djibouti",
+		"capital": "Djibouti",
+		"short": "dj"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ee.png",
+		"name": "Estonia",
+		"capital": "Tallinn",
+		"short": "ee"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bf.png",
+		"name": "Burkina Faso",
+		"capital": "Ouagadougou",
+		"short": "bf"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/va.png",
+		"name": "Vatican City",
+		"capital": "Vatican City",
+		"short": "va"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gn.png",
+		"name": "Guinea",
+		"capital": "Conakry",
+		"short": "gn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ua.png",
+		"name": "Ukraine",
+		"capital": "Kyiv",
+		"short": "ua"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sm.png",
+		"name": "San Marino",
+		"capital": "City of San Marino",
+		"short": "sm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pl.png",
+		"name": "Poland",
+		"capital": "Warsaw",
+		"short": "pl"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pa.png",
+		"name": "Panama",
+		"capital": "Panama City",
+		"short": "pa"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cl.png",
+		"name": "Chile",
+		"capital": "Santiago",
+		"short": "cl"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pt.png",
+		"name": "Portugal",
+		"capital": "Lisbon",
+		"short": "pt"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bw.png",
+		"name": "Botswana",
+		"capital": "Gaborone",
+		"short": "bw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ga.png",
+		"name": "Gabon",
+		"capital": "Libreville",
+		"short": "ga"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tm.png",
+		"name": "Turkmenistan",
+		"capital": "Ashgabat",
+		"short": "tm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/it.png",
+		"name": "Italy",
+		"capital": "Rome",
+		"short": "it"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mg.png",
+		"name": "Madagascar",
+		"capital": "Antananarivo",
+		"short": "mg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cd.png",
+		"name": "DR Congo",
+		"capital": "Kinshasa",
+		"short": "cd"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/vn.png",
+		"name": "Vietnam",
+		"capital": "Hanoi",
+		"short": "vn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/dm.png",
+		"name": "Dominica",
+		"capital": "Roseau",
+		"short": "dm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/fm.png",
+		"name": "Micronesia",
+		"capital": "Palikir",
+		"short": "fm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tr.png",
+		"name": "Turkey",
+		"capital": "Ankara",
+		"short": "tr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kz.png",
+		"name": "Kazakhstan",
+		"capital": "Nur-Sultan",
+		"short": "kz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ro.png",
+		"name": "Romania",
+		"capital": "Bucharest",
+		"short": "ro"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lv.png",
+		"name": "Latvia",
+		"capital": "Riga",
+		"short": "lv"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tn.png",
+		"name": "Tunisia",
+		"capital": "Tunis",
+		"short": "tn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/dk.png",
+		"name": "Denmark",
+		"capital": "Copenhagen",
+		"short": "dk"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/hu.png",
+		"name": "Hungary",
+		"capital": "Budapest",
+		"short": "hu"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/uz.png",
+		"name": "Uzbekistan",
+		"capital": "Tashkent",
+		"short": "uz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ru.png",
+		"name": "Russia",
+		"capital": "Moscow",
+		"short": "ru"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gh.png",
+		"name": "Ghana",
+		"capital": "Accra",
+		"short": "gh"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cg.png",
+		"name": "Republic of the Congo",
+		"capital": "Brazzaville",
+		"short": "cg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ao.png",
+		"name": "Angola",
+		"capital": "Luanda",
+		"short": "ao"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ch.png",
+		"name": "Switzerland",
+		"capital": "Bern",
+		"short": "ch"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tw.png",
+		"name": "Taiwan",
+		"capital": "Taipei",
+		"short": "tw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mk.png",
+		"name": "North Macedonia",
+		"capital": "Skopje",
+		"short": "mk"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sl.png",
+		"name": "Sierra Leone",
+		"capital": "Freetown",
+		"short": "sl"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cz.png",
+		"name": "Czechia",
+		"capital": "Prague",
+		"short": "cz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pe.png",
+		"name": "Peru",
+		"capital": "Lima",
+		"short": "pe"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bn.png",
+		"name": "Brunei",
+		"capital": "Bandar Seri Begawan",
+		"short": "bn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ye.png",
+		"name": "Yemen",
+		"capital": "Sana'a",
+		"short": "ye"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/hr.png",
+		"name": "Croatia",
+		"capital": "Zagreb",
+		"short": "hr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ly.png",
+		"name": "Libya",
+		"capital": "Tripoli",
+		"short": "ly"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/py.png",
+		"name": "Paraguay",
+		"capital": "Asunción",
+		"short": "py"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/li.png",
+		"name": "Liechtenstein",
+		"capital": "Vaduz",
+		"short": "li"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sk.png",
+		"name": "Slovakia",
+		"capital": "Bratislava",
+		"short": "sk"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/eg.png",
+		"name": "Egypt",
+		"capital": "Cairo",
+		"short": "eg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/lk.png",
+		"name": "Sri Lanka",
+		"capital": [
+			"Sri Jayawardenepura Kotte",
+			"Colombo"
+		],
+		"short": "lk"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/rs.png",
+		"name": "Serbia",
+		"capital": "Belgrade",
+		"short": "rs"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sn.png",
+		"name": "Senegal",
+		"capital": "Dakar",
+		"short": "sn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/nz.png",
+		"name": "New Zealand",
+		"capital": "Wellington",
+		"short": "nz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kp.png",
+		"name": "North Korea",
+		"capital": "Pyongyang",
+		"short": "kp"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/dz.png",
+		"name": "Algeria",
+		"capital": "Algiers",
+		"short": "dz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/so.png",
+		"name": "Somalia",
+		"capital": "Mogadishu",
+		"short": "so"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sd.png",
+		"name": "Sudan",
+		"capital": "Khartoum",
+		"short": "sd"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ng.png",
+		"name": "Nigeria",
+		"capital": "Abuja",
+		"short": "ng"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mh.png",
+		"name": "Marshall Islands",
+		"capital": "Majuro",
+		"short": "mh"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/al.png",
+		"name": "Albania",
+		"capital": "Tirana",
+		"short": "al"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bo.png",
+		"name": "Bolivia",
+		"capital": [
+			"Sucre",
+			"La Paz"
+		],
+		"short": "bo"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/pg.png",
+		"name": "Papua New Guinea",
+		"capital": "Port Moresby",
+		"short": "pg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/qa.png",
+		"name": "Qatar",
+		"capital": "Doha",
+		"short": "qa"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bb.png",
+		"name": "Barbados",
+		"capital": "Bridgetown",
+		"short": "bb"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cr.png",
+		"name": "Costa Rica",
+		"capital": "San José",
+		"short": "cr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sc.png",
+		"name": "Seychelles",
+		"capital": "Victoria",
+		"short": "sc"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/af.png",
+		"name": "Afghanistan",
+		"capital": "Kabul",
+		"short": "af"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/nr.png",
+		"name": "Nauru",
+		"capital": "Yaren",
+		"short": "nr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gr.png",
+		"name": "Greece",
+		"capital": "Athens",
+		"short": "gr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ni.png",
+		"name": "Nicaragua",
+		"capital": "Managua",
+		"short": "ni"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ae.png",
+		"name": "United Arab Emirates",
+		"capital": "Abu Dhabi",
+		"short": "ae"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cm.png",
+		"name": "Cameroon",
+		"capital": "Yaoundé",
+		"short": "cm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ir.png",
+		"name": "Iran",
+		"capital": "Tehran",
+		"short": "ir"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mc.png",
+		"name": "Monaco",
+		"capital": "Monaco",
+		"short": "mc"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ar.png",
+		"name": "Argentina",
+		"capital": "Buenos Aires",
+		"short": "ar"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mx.png",
+		"name": "Mexico",
+		"capital": "Mexico City",
+		"short": "mx"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mr.png",
+		"name": "Mauritania",
+		"capital": "Nouakchott",
+		"short": "mr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/in.png",
+		"name": "India",
+		"capital": "New Delhi",
+		"short": "in"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/az.png",
+		"name": "Azerbaijan",
+		"capital": "Baku",
+		"short": "az"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/hn.png",
+		"name": "Honduras",
+		"capital": "Tegucigalpa",
+		"short": "hn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tz.png",
+		"name": "Tanzania",
+		"capital": "Dodoma",
+		"short": "tz"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/iq.png",
+		"name": "Iraq",
+		"capital": "Baghdad",
+		"short": "iq"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bh.png",
+		"name": "Bahrain",
+		"capital": "Manama",
+		"short": "bh"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kr.png",
+		"name": "South Korea",
+		"capital": "Seoul",
+		"short": "kr"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gq.png",
+		"name": "Equatorial Guinea",
+		"capital": "Malabo",
+		"short": "gq"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ls.png",
+		"name": "Lesotho",
+		"capital": "Maseru",
+		"short": "ls"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/np.png",
+		"name": "Nepal",
+		"capital": "Kathmandu",
+		"short": "np"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/om.png",
+		"name": "Oman",
+		"capital": "Muscat",
+		"short": "om"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/de.png",
+		"name": "Germany",
+		"capital": "Berlin",
+		"short": "de"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ba.png",
+		"name": "Bosnia and Herzegovina",
+		"capital": "Sarajevo",
+		"short": "ba"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kn.png",
+		"name": "Saint Kitts and Nevis",
+		"capital": "Basseterre",
+		"short": "kn"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/st.png",
+		"name": "São Tomé and Príncipe",
+		"capital": "São Tomé",
+		"short": "st"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bs.png",
+		"name": "Bahamas",
+		"capital": "Nassau",
+		"short": "bs"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/no.png",
+		"name": "Norway",
+		"capital": "Oslo",
+		"short": "no"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/na.png",
+		"name": "Namibia",
+		"capital": "Windhoek",
+		"short": "na"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/vu.png",
+		"name": "Vanuatu",
+		"capital": "Port Vila",
+		"short": "vu"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/tg.png",
+		"name": "Togo",
+		"capital": "Lomé",
+		"short": "tg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sg.png",
+		"name": "Singapore",
+		"capital": "Singapore",
+		"short": "sg"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/bd.png",
+		"name": "Bangladesh",
+		"capital": "Dhaka",
+		"short": "bd"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gm.png",
+		"name": "Gambia",
+		"capital": "Banjul",
+		"short": "gm"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/si.png",
+		"name": "Slovenia",
+		"capital": "Ljubljana",
+		"short": "si"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ci.png",
+		"name": "Ivory Coast",
+		"capital": "Yamoussoukro",
+		"short": "ci"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cu.png",
+		"name": "Cuba",
+		"capital": "Havana",
+		"short": "cu"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mt.png",
+		"name": "Malta",
+		"capital": "Valletta",
+		"short": "mt"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/fi.png",
+		"name": "Finland",
+		"capital": "Helsinki",
+		"short": "fi"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ss.png",
+		"name": "South Sudan",
+		"capital": "Juba",
+		"short": "ss"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/mw.png",
+		"name": "Malawi",
+		"capital": "Lilongwe",
+		"short": "mw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/ht.png",
+		"name": "Haiti",
+		"capital": "Port-au-Prince",
+		"short": "ht"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gb.png",
+		"name": "United Kingdom",
+		"capital": "London",
+		"short": "gb"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/sa.png",
+		"name": "Saudi Arabia",
+		"capital": "Riyadh",
+		"short": "sa"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/kw.png",
+		"name": "Kuwait",
+		"capital": "Kuwait City",
+		"short": "kw"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/cf.png",
+		"name": "Central African Republic",
+		"capital": "Bangui",
+		"short": "cf"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/vc.png",
+		"name": "Saint Vincent and the Grenadines",
+		"capital": "Kingstown",
+		"short": "vc"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/th.png",
+		"name": "Thailand",
+		"capital": "Bangkok",
+		"short": "th"
+	},
+	{
+		"flags": "https://flagcdn.com/w320/gl.png",
+		"name": "Greenland",
+		"capital": "Nuuk",
+		"short": "gl"
+	}
+]
